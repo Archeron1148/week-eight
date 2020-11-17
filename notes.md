@@ -43,3 +43,5 @@ https://intarch.ac.uk/journal/issue44/7/index.html
 
 Living a Semi-digital Kinda Life’ in Erin Walcek Averett, Jody Michael Gordon, and Derek B. Counts (eds) Mobilizing the Past for a Digital Future: The Potential of Digital Archaeology
 
+    In  this particular moment, as a discipline, I believe we live a semi-digital kinda life (à la Third Eye Blind, the US rock band formed in the early 1990s ) where we are part paper and part paperless.
+    
