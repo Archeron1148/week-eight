@@ -2,7 +2,7 @@ CONSOLIDATION DOCUMENT 2 - ARCHERON1148
 
 >Discuss at least one ‘fail’ and one ‘win’. 
 
-fail --> getting stuck in the epistemological problem
+fail --> getting stuck
 
 win --> 
 
