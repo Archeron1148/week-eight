@@ -2,17 +2,13 @@ CONSOLIDATION DOCUMENT 2 - ARCHERON1148
 
 >Discuss at least one ‘fail’ and one ‘win’. 
 
-My fail for this module is in writing this document. I had already procrastinated before I realized that I had not yet gotten my feedback for last week, then after that it took me quite a while to organize my thoughts on what I wanted to write about.
+My fail for this module is in writing this document. I had already procrastinated before I realized that I had not yet gotten my feedback for last week, then after that it took me quite a while to organize my thoughts on what I wanted to write about. I had vague ideas but my mind was still cluttered from other things and I was a bit underslept, so I ended up procrastinating a bit more. The issue here was I think not sleeping properly and not organizing my thoughts through writing: generally it helps a lot when I am stuck at a point like that where my thoughts are unorganized to try to get the process started, and normally I think I would have done that if the work was not totally digital - it seems that I sort of forgot about that strategy because I've been writing everything up till now here in github. In future I think I'll try to use paper more to start the iterative writing process.
 
-win --> 
+My win for this module is... also writing this document, because after now struggling with the ideas I had for so long and refining them into a more coherent state feels pretty good. I am quite happy with this consolidation document in the end :).
 
 >What has been most challenging for you so far, and why is that? 
 
-keeping up still lol
-
-assemblages language
-
-an archaeology which presents itself as non-ideological, but remains ideological
+I am still feeling a little bit overwealmed trying to keep up with my six courses, but in order to not simply repeat my document from last module, I will instead discuss two other challenges. The first has to do with one reading in particular: I found the language in the Messy Assembleges article incredibly hard to follow. As interesting as some of the ideas that I did get out of it were, I felt like I missed out on a lot because of the vocabulary. At the risk of being a little bit ignorant, some of the language seemed needlessly confusing: for example, though I understand the authors are trying to illustrate a specific point, I can't help but feel that "The excavator cuts through pre-existing deposits redepositing materials from earlier temporal horizons into subsequent, increasingly messy, assemblages and contexts containing (re)mixed, or reworked, components originating from multiple temporal horizons" is an incredibly convoluted way to talk about "the sinking of a well." Secondly, I have seen the term 'ontologies' used in this and quite a few of the other readings for this course, but while im familiar with ontology in the general philosophical sense, I'm not sure I understand the way it is being used in these articles.
 
 >This module has been about ‘Considering|Critiquing’, where we have tried to both find the patterns in data but also think about the ways we collect that data impact the kinds of patterns we might see. Given what you’ve read and explored in this last module, what are the implications for ‘doing’ digital archaeology… and are they different from what you were thinking at the end of module 1? What are some of the new dilemmas to the work you’ve encountered so far?
 
